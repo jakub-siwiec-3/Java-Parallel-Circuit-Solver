@@ -1,1 +1,2 @@
 # Java-Parallel-Circuit-Solver
+This solution is designed to operate within the interface provided by the academic course instructor. The program evaluates logical expressions in parallel, leveraging parallel computing mechanisms. It employs a greedy evaluation strategy, terminating computation as soon as the final result is determined. The details of the implementation are explained within the code.
